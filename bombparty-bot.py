@@ -11,7 +11,7 @@ import pyperclip
 send = KeyboardController()
 mouse = MouseController()
 
-SET_THIS_TO_True_FOR_LONG_WORDS = False
+SET_THIS_TO_True_FOR_LONG_WORDS = True
 
 CURR_DIR = os.path.dirname(os.path.realpath(__file__))
 
